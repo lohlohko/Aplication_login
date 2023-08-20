@@ -1,8 +1,8 @@
 # Aplication_login
-==
+
 aplikasi dengan fitur login
---
-*Alur Fitur Login:
+
+Alur Fitur Login:
 
 1. Memasukkan nama, email, dan password
 2. Memvalidasi masukan.
